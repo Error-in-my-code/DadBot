@@ -6,7 +6,7 @@ I have absolutely zero recollection of when how or why I made this bot, but its 
 
 ---
 ## Running DadBot
-All I can tell you is that it runs fine on JDK (or JRE) 17, I switch between [Adoptium](https://adoptium.net/temurin/releases/?version=17) and [Zulu](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu)
+All I can tell you is that it runs fine on JDK (or JRE) 17. I switch between [Adoptium](https://adoptium.net/temurin/releases/?version=17) and [Zulu](https://www.azul.com/downloads/?version=java-17-lts&package=jdk#zulu).
 To make life easier for myself, I made a shell file that would run the bot when I inevitably forget how to specify the Java path. It's very simple and looks something like this:
 ```
 ./[JDK Folder]/bin/java -jar DadBot-[VERSION]-SHADED.jar
