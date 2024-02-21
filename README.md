@@ -1,3 +1,4 @@
+![DadBotLogo](src/logo/DadbotLogo.png)
 # DadBot
 The fatherly humour that you never experienced
 ---
