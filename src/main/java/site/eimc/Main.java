@@ -1,4 +1,4 @@
-package org.example;
+package site.eimc;
 
 import events.MyListener;
 import net.dv8tion.jda.api.JDA;

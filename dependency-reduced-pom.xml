@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
   <artifactId>DadBot</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>2.0.0</version>
   <build>
     <plugins>
       <plugin>
@@ -21,7 +21,7 @@
           <shadedArtifactAttached>true</shadedArtifactAttached>
           <transformers>
             <transformer>
-              <mainClass>org.example.Main</mainClass>
+              <mainClass>site.eimc.Main</mainClass>
             </transformer>
           </transformers>
         </configuration>
@@ -32,7 +32,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>org.example.Main</mainClass>
+              <mainClass>site.eimc.Main</mainClass>
             </manifest>
           </archive>
         </configuration>

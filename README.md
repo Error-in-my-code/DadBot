@@ -14,6 +14,7 @@ To make life easier for myself, I made a shell file that would run the bot when 
 ```
 With that as a reference, you can see how to make your own little startup script.
 
+UPDATE: This dosen't work anymore and I have no idea why.
 ---
 ## Building the Project
 In IntelliJ IDEA, Maven should already have set itself up, shade it and then package the jar (I have no idea if that's what I did to get the working jar).
